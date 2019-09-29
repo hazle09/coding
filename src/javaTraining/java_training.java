@@ -7,7 +7,7 @@ public class java_training {
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
 		int i=0;
-		for(i=0;i<10;i++) {
+		for(i=1;i<10;i++) {
 			System.out.printf("%d * %d =%d\n",a,i,a*i);
 		}
 		
