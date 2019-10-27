@@ -9,9 +9,9 @@ public class training {
 			int a=s.nextInt();
 			int b=s.nextInt();
 			
-			int r1=a*(b%10/10);
-			int r2=a*(b%100/100);
-			int r3=a*(b%1000/1000);
+			int r1=a*(b%10/1);
+			int r2=a*(b%100/10);
+			int r3=a*(b%1000/100);
 			
 			
 			System.out.println(r1);
