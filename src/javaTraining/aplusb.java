@@ -10,7 +10,7 @@ public class aplusb {
 		int a=s.nextInt();
 		int b=s.nextInt();
 		
-		System.out.println(a+b);
+		System.out.print(a+b);
 		
 		
 	}
