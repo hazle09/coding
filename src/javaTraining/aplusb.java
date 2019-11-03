@@ -9,8 +9,9 @@ public class aplusb {
 		
 		int a=s.nextInt();
 		int b=s.nextInt();
+		s.close();
 		
-		System.out.print(a+b);
+		System.out.println(a+b);
 		
 		
 	}
