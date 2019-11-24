@@ -27,7 +27,7 @@ public class numbers {
 		}
 		
 			
-		System.out.println();	
+		System.out.println(b);	
 		
 
 	}
