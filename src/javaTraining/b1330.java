@@ -15,6 +15,7 @@ public class b1330 {
 			System.out.println("<");
 		if(a==b)
 			System.out.println("==");
+		s.close();
 	}
 
 }

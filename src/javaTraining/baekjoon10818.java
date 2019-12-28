@@ -23,6 +23,7 @@ public class baekjoon10818 {
 	}
 	
 		System.out.println(min+" "+max);
+		s.close();
 		
 	
 	/*

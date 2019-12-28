@@ -12,6 +12,7 @@ public class aplusb {
 		s.close();
 		
 		System.out.println(a+b);
+		s.close();
 		
 		
 	}
