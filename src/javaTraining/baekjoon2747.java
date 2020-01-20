@@ -8,14 +8,14 @@ public class baekjoon2747 {
 		int i=sc.nextInt();
 		int a=0;
 		int b=1;
-		int tmp=0;
+		int tmp=1;
 		for(int j=1;j<i;j++) {
 			tmp=a+b;
 			a=b;
 			b=tmp;
-			
 		}
 		System.out.println(tmp);
+		sc.close();
 	}
 
 }
